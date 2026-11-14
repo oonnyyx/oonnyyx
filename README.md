@@ -3,7 +3,7 @@ student interested in using AI to solve everyday problems, and in turning the so
 
 ## Products
 
-**[Vord](https://vord.pl)** · Scheduling, time tracking and payroll for small businesses with 1 to 40 people. Plan the week, log the hours and calculate pay in one place. In daily use at a real company. [Screenshots and video](https://github.com/oonnyyx/vord)
+**[Vord](https://vord.pl)** · Scheduling, time tracking and payroll for small businesses with 1 to 20 people. Plan the week, log the hours and calculate pay in one place. In daily use at a real company. [Screenshots and video](https://github.com/oonnyyx/vord)
 
 **[OnyxBot](https://onyxbot.live)** · A Polish chat bot for Kick streamers: on-screen games for chat, watch-time points, giveaways, custom commands and alerts.
 
