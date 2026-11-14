@@ -33,6 +33,8 @@ Free to download for Paper 26.2, MIT licensed.
 | [SunZycia](https://github.com/oonnyyx/SunZycia) | Lives system with Life Crystals and a revival ritual |
 | [SunAreny](https://github.com/oonnyyx/SunAreny) | Spleef, TNT Run and King of the Hill with sign-ups |
 | [SunSzafa](https://github.com/oonnyyx/SunSzafa) | Jukebox for Note Block Studio songs |
+| [SunCzat](https://github.com/oonnyyx/SunCzat) | Chat with ranks, private messages, @mentions, [item], anti-spam and timed mutes |
+| [SunRankingi](https://github.com/oonnyyx/SunRankingi) | Top 10 leaderboard holograms with the leader's head and your own place |
 
 ## Contact
 
@@ -50,7 +52,7 @@ student, który interesuje się wykorzystaniem AI do rozwiązywania codziennych 
 
 **[OnyxBot](https://onyxbot.live)** · Polski bot do czatu na Kicku: gry na ekranie, punkty za oglądanie, konkursy, własne komendy i alerty. [Zrzuty ekranu i GIF-y](https://github.com/oonnyyx/onyxbot/blob/main/README.pl.md)
 
-**Pluginy Minecraft** · Sześć darmowych pluginów na Paper 26.2 (bossowie, skrzynki, mityczne bronie, system żyć, minigry i szafa grająca). Linki w tabeli wyżej.
+**Pluginy Minecraft** · Osiem darmowych pluginów na Paper 26.2 (bossowie, skrzynki, mityczne bronie, system żyć, minigry, szafa grająca, czat i rankingi). Linki w tabeli wyżej.
 
 **Kontakt** · Współpraca, staże i inne sprawy: [kontakt@onyxdev.pl](mailto:kontakt@onyxdev.pl). OnyxBot: [kontakt@onyxbot.live](mailto:kontakt@onyxbot.live).
 
