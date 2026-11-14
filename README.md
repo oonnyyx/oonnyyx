@@ -1,10 +1,9 @@
-### Hey, I'm oonnyyx
-
-A young student interested in using AI to solve everyday problems, and in turning the solutions that work into things people actually use. Open to collaboration, internships and interesting projects.
+### hey, I'm onyx.
+student interested in using AI to solve everyday problems, and in turning the solutions that work into things people actually use. Open to collaboration, internships and interesting projects.
 
 ## Products
 
-**[Vord](https://vord.pl)** · Scheduling, time tracking and payroll for small businesses with 1 to 20 people. Plan the week, log the hours and calculate pay in one place. In daily use at a real company.
+**[Vord](https://vord.pl)** · Scheduling, time tracking and payroll for small businesses with 1 to 40 people. Plan the week, log the hours and calculate pay in one place. In daily use at a real company.
 
 **[OnyxBot](https://onyxbot.live)** · A Polish chat bot for Kick streamers: on-screen games for chat, watch-time points, giveaways, custom commands and alerts.
 
@@ -36,7 +35,7 @@ Free to download for Paper 26.2, MIT licensed.
 
 <br>
 
-Młody student, który interesuje się wykorzystaniem AI do rozwiązywania codziennych problemów i zamienia rozwiązania, które się sprawdzają, w rzeczy, z których ludzie naprawdę korzystają. Jestem otwarty na współpracę, staże i ciekawe projekty.
+student, który interesuje się wykorzystaniem AI do rozwiązywania codziennych problemów i zamienia rozwiązania, które się sprawdzają, w rzeczy, z których ludzie naprawdę korzystają. Jestem otwarty na współpracę, staże i ciekawe projekty.
 
 **[Vord](https://vord.pl)** · Grafik, ewidencja czasu pracy i wypłaty dla małych firm od 1 do 20 osób. Zaplanuj tydzień, zapisz przepracowane godziny i policz wypłaty w jednym miejscu. Na co dzień używany w prawdziwej firmie.
 
