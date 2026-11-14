@@ -7,6 +7,15 @@ student interested in using AI to solve everyday problems, and in turning the so
 
 **[OnyxBot](https://onyxbot.live)** · A Polish chat bot for Kick streamers: on-screen games for chat, watch-time points, giveaways, custom commands and alerts. [Screenshots and GIFs](https://github.com/oonnyyx/onyxbot)
 
+<p>
+  <a href="https://github.com/oonnyyx/onyxbot"><img src="https://raw.githubusercontent.com/oonnyyx/onyxbot/main/docs/gra-boss.gif" width="64%" alt="OnyxBot: boss fight on stream"></a>
+  <a href="https://github.com/oonnyyx/onyxbot"><img src="https://raw.githubusercontent.com/oonnyyx/onyxbot/main/docs/gra-wyscig.gif" width="34%" alt="OnyxBot: marble race"></a>
+</p>
+<p>
+  <a href="https://github.com/oonnyyx/onyxbot"><img src="https://raw.githubusercontent.com/oonnyyx/onyxbot/main/docs/panel.jpg" width="49%" alt="OnyxBot: streamer panel"></a>
+  <a href="https://github.com/oonnyyx/onyxbot"><img src="https://raw.githubusercontent.com/oonnyyx/onyxbot/main/docs/widzety.jpg" width="49%" alt="OnyxBot: widgets"></a>
+</p>
+
 ## Minecraft plugins
 
 Free to download for Paper 26.2, MIT licensed.
