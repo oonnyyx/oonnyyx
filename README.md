@@ -3,7 +3,7 @@ student interested in using AI to solve everyday problems, and in turning the so
 
 ## Products
 
-**[Vord](https://vord.pl)** · Scheduling, time tracking and payroll for small businesses with 1 to 40 people. Plan the week, log the hours and calculate pay in one place. In daily use at a real company.
+**[Vord](https://vord.pl)** · Scheduling, time tracking and payroll for small businesses with 1 to 40 people. Plan the week, log the hours and calculate pay in one place. In daily use at a real company. [Screenshots and video](https://github.com/oonnyyx/vord)
 
 **[OnyxBot](https://onyxbot.live)** · A Polish chat bot for Kick streamers: on-screen games for chat, watch-time points, giveaways, custom commands and alerts.
 
@@ -37,7 +37,7 @@ Free to download for Paper 26.2, MIT licensed.
 
 student, który interesuje się wykorzystaniem AI do rozwiązywania codziennych problemów i zamienia rozwiązania, które się sprawdzają, w rzeczy, z których ludzie naprawdę korzystają. Jestem otwarty na współpracę, staże i ciekawe projekty.
 
-**[Vord](https://vord.pl)** · Grafik, ewidencja czasu pracy i wypłaty dla małych firm od 1 do 20 osób. Zaplanuj tydzień, zapisz przepracowane godziny i policz wypłaty w jednym miejscu. Na co dzień używany w prawdziwej firmie.
+**[Vord](https://vord.pl)** · Grafik, ewidencja czasu pracy i wypłaty dla małych firm od 1 do 20 osób. Zaplanuj tydzień, zapisz przepracowane godziny i policz wypłaty w jednym miejscu. Na co dzień używany w prawdziwej firmie. [Zrzuty ekranu i film](https://github.com/oonnyyx/vord/blob/main/README.pl.md)
 
 **[OnyxBot](https://onyxbot.live)** · Polski bot do czatu na Kicku: gry na ekranie, punkty za oglądanie, konkursy, własne komendy i alerty.
 
