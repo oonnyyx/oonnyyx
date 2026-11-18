@@ -5,7 +5,7 @@ student interested in using AI to solve everyday problems, and in turning the so
 
 **[Vord](https://vord.pl)** · Scheduling, time tracking and payroll for small businesses with 1 to 20 people. Plan the week, log the hours and calculate pay in one place. In daily use at a real company. [Screenshots and video](https://github.com/oonnyyx/vord)
 
-**[OnyxBot](https://onyxbot.live)** · A Polish chat bot for Kick streamers: on-screen games for chat, watch-time points, giveaways, custom commands and alerts. [Screenshots and GIFs](https://github.com/oonnyyx/onyxbot)
+**[OnyxBot](https://onyxbot.live)** · A Polish chat bot for Kick and Twitch streamers: on-screen games for chat, watch-time points, giveaways, custom commands and alerts. [Screenshots and GIFs](https://github.com/oonnyyx/onyxbot)
 
 <p>
   <a href="https://github.com/oonnyyx/onyxbot"><img src="https://raw.githubusercontent.com/oonnyyx/onyxbot/main/docs/gra-boss.gif" width="64%" alt="OnyxBot: boss fight on stream"></a>
@@ -50,7 +50,7 @@ student, który interesuje się wykorzystaniem AI do rozwiązywania codziennych 
 
 **[Vord](https://vord.pl)** · Grafik, ewidencja czasu pracy i wypłaty dla małych firm od 1 do 20 osób. Zaplanuj tydzień, zapisz przepracowane godziny i policz wypłaty w jednym miejscu. Na co dzień używany w prawdziwej firmie. [Zrzuty ekranu i film](https://github.com/oonnyyx/vord/blob/main/README.pl.md)
 
-**[OnyxBot](https://onyxbot.live)** · Polski bot do czatu na Kicku: gry na ekranie, punkty za oglądanie, konkursy, własne komendy i alerty. [Zrzuty ekranu i GIF-y](https://github.com/oonnyyx/onyxbot/blob/main/README.pl.md)
+**[OnyxBot](https://onyxbot.live)** · Polski bot do czatu na Kicku i Twitchu: gry na ekranie, punkty za oglądanie, konkursy, własne komendy i alerty. [Zrzuty ekranu i GIF-y](https://github.com/oonnyyx/onyxbot/blob/main/README.pl.md)
 
 **Pluginy Minecraft** · Osiem darmowych pluginów na Paper 26.2 (bossowie, skrzynki, mityczne bronie, system żyć, minigry, szafa grająca, czat i rankingi). Linki w tabeli wyżej.
 
